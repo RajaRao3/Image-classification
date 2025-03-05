@@ -1,5 +1,5 @@
-data flex = {
+let  flex = {
     id:"rajessgsgs",
     name:fsf,
-    age:43,
+    age :45
 }
